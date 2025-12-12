@@ -2,7 +2,7 @@
 
 Name:		python-littleutils
 Version:	0.2.4
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/l/littleutils/%{module}-%{version}.tar.gz
 Summary:	Small personal collection of python utility functions
 URL:		https://pypi.org/project/littleutils/
